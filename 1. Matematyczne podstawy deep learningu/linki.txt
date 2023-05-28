@@ -1,0 +1,5 @@
+https://elmos.scripts.mit.edu/mathofdeeplearning/2017/04/09/mathematics-of-deep-learning-lecture-2/
+
+Zbiory danych:
+https://archive.ics.uci.edu/ml/datasets.php
+https://archive.ics.uci.edu/ml/datasets/Flags - wybrany przeze mnie zbiór (flagi)
